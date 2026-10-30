@@ -1,7 +1,3 @@
 --Información--
-
--Actualmente lo unico que falta es el css ya que me he encontrado con 
-distintos problemas para que se me aplicara a la web
-
--Por ultimo para ejecutar el programa se debe clickar en el apartado de 
+Para ejecutar el programa se debe clickar en el apartado de
 maven-> lifecycle-> package, y por ultimo maven -> plugins -> cargo:run
