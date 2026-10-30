@@ -1,0 +1,12 @@
+--Información--
+
+-Actualmente lo unico que falta es el css ya que me he encontrado con 
+distintos problemas para que se me aplicara a la web
+
+-Otro problema que aun no solucione es la generacion del javadoc, 
+ya que si bien es cierto que se encuentra el archivo en el target 
+una vez que ejecutas la aplicacion(y con ella la generacion del war) se elimina
+
+-Por ultimo para ejecutar el programa se debe clickar en el apartado de 
+maven-> lifecycle-> clean, seguidamente clickar en lifecycle-> package, y 
+por ultimo maven -> plugins -> cargo:run ya que el comando da fallo 
